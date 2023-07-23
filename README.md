@@ -25,7 +25,7 @@
 <div align="center">
   <ol>
     <li>Clone the repository to your local machine:</li>
-    <pre>git clone https://github.com/your_username/Music-Recommendation-System.git</pre>
+    <pre>git clone https://github.com/LostParadise07/Search_based_Music_Recommendation</pre>
     <li>Install the required packages:</li>
     <pre>pip install Flask pandas numpy scikit-learn</pre>
     <li>Run the Flask app:</li>
@@ -78,14 +78,6 @@
 
 <div align="center">
   <p>Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.</p>
-</div>
-
-<div align="center">
-  <h2>License</h2>
-</div>
-
-<div align="center">
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 </div>
 
 <div align="center">
