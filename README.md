@@ -27,10 +27,10 @@
     <li>Clone the repository to your local machine:</li>
     <pre>git clone https://github.com/LostParadise07/Search_based_Music_Recommendation</pre>
     <li>Install the required packages:</li>
-    <pre>pip install Flask pandas numpy scikit-learn</pre>
+    <pre>pip install -r requirements.txt</pre>
     <li>Run the Flask app:</li>
     <pre>cd Music-Recommendation-System</pre>
-    <pre>python app.py</pre>
+    <pre>python3 app.py</pre>
   </ol>
 </div>
 
